@@ -1,0 +1,5 @@
+{"level":"info","message":"Received request for home page","service":"acquisitions-api","timestamp":"2026-04-07T18:11:22.945Z"}
+{"level":"info","message":"::1 - - [07/Apr/2026:18:11:22 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-04-07T18:11:22.953Z"}
+{"level":"info","message":"Received request for home page","service":"acquisitions-api","timestamp":"2026-04-08T07:27:20.986Z"}
+{"level":"info","message":"::1 - - [08/Apr/2026:07:27:20 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-04-08T07:27:20.992Z"}
+{"level":"info","message":"::1 - - [08/Apr/2026:07:27:21 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-04-08T07:27:21.024Z"}
